@@ -1,0 +1,324 @@
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll.config
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Street_Vendors.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe.config
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csc.rsp
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe.config
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\csi.rsp
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Buffers.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Memory.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe.config
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\vbc.rsp
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\EntityFramework.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Owin.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Razor.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\WebGrease.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\EntityFramework.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.Razor.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csprojAssemblyReference.cache
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CoreCompileInputs.cache
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CopyComplete
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.InitialCreate.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.GenerateResource.cache
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.initialingMap.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingItemandkey.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingUserIDRating.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addproduct.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.removingitems.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addItem.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addngtype.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.ImageTypeadding.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.spellincheck.resources
+C:\Users\rkana\source\repos\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.mapfore.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll.config
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Street_Vendors.pdb
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe.config
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csc.rsp
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe.config
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\csi.rsp
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Buffers.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Collections.Immutable.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Memory.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Numerics.Vectors.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Reflection.Metadata.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe.config
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\vbc.rsp
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe.config
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\EntityFramework.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Web.Infrastructure.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Owin.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Razor.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\WebGrease.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\EntityFramework.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.pdb
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.pdb
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.Razor.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.pdb
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csprojAssemblyReference.cache
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.InitialCreate.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.initialingMap.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingItemandkey.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingUserIDRating.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addproduct.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.removingitems.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addItem.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addngtype.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.ImageTypeadding.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.spellincheck.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.mapfore.resources
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.GenerateResource.cache
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CoreCompileInputs.cache
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CopyComplete
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.dll
+G:\Submission isd\MainProject\rahat1\Final Sd\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll.config
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Street_Vendors.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Street_Vendors.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csc.exe.config
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csc.rsp
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csi.exe.config
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\csi.rsp
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.Managed.Core.targets
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Buffers.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Collections.Immutable.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Memory.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Numerics.Vectors.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Reflection.Metadata.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\vbc.exe.config
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\vbc.rsp
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\roslyn\VBCSCompiler.exe.config
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\EntityFramework.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Web.Infrastructure.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Owin.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Razor.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\WebGrease.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\EntityFramework.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\EntityFramework.SqlServer.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Client.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.Core.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Facebook.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Google.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.OAuth.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.Owin.Security.Twitter.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Newtonsoft.Json.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Helpers.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Mvc.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Optimization.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.Razor.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Deployment.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\System.Web.WebPages.Razor.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Antlr3.Runtime.pdb
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Core.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.AssemblyReference.cache
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.InitialCreate.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.initialingMap.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingItemandkey.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addingUserIDRating.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addproduct.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.removingitems.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addItem.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.addngtype.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.ImageTypeadding.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.spellincheck.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.Migrations.mapfore.resources
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.GenerateResource.cache
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CoreCompileInputs.cache
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.csproj.CopyComplete
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.dll
+J:\All semester project\3.2 Final Sd Street Vendor\Street_Vendors\Street_Vendors\obj\Debug\Street_Vendors.pdb
